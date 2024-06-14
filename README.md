@@ -49,3 +49,4 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 ## My Information:
 
 - Deploying astro in vercel : https://vercel.com/docs/frameworks/astro
+- fix issue configuration prettier with astro : https://github.com/withastro/prettier-plugin-astro/issues/97#issuecomment-1013645333
